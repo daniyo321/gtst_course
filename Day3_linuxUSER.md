@@ -41,13 +41,16 @@
    :diamond_shape_with_a_dot_inside: oscanner
    :diamond_shape_with_a_dot_inside: sidguesser
    :diamond_shape_with_a_dot_inside: sqldict 
-  :diamond_shape_with_a_dot_nside:SQLite data. . . 
+  :diamond_shape_with_a_dot_inside: SQLite data
+
+---
    :diamond_shape_with_a_dot_inside: sqlmap
    :diamond_shape_with_a_dot_inside: sqlninja
    :diamond_shape_with_a_dot_inside: sqlsus
    :diamond_shape_with_a_dot_inside: tnscmd10g
 ## :five: Password Attacks 
 - Tools for exploiting Passwords for login, websites, application, windows . . 
+---
    :eight_spoked_asterisk: cewl
    :eight_spoked_asterisk: crunch
    :eight_spoked_asterisk: hashcat
@@ -62,6 +65,7 @@
    :eight_spoked_asterisk: wordlists
 ## :six: Wireless Attacks
 - Tools for exploiting Wireless systems like wifi,bluetooth . .
+---
      :arrow_right: aircrack-ng
      :arrow_right: chirp
      :arrow_right: cowpatty
@@ -75,6 +79,7 @@
      :arrow_right: wifite
 ## :seven: Reverse  Engineering
 - Tools for exploiting Softwares ,Mobile Applications and any binary files
+---
    :large_blue_circle: apktool
    :large_blue_circle: bytecode-vi. . .
    :large_blue_circle: clang
@@ -89,6 +94,7 @@
    :large_blue_circle: radare2
 ## :eight: Exploitation Tools
 - Tools for exploiting Softwares, Mobile, Computers, websites and anythings
+---
     :fast_forward: armitage
     :fast_forward: beef xss fra . . . 
     :fast_forward: metasploit Fram. . .
@@ -99,6 +105,7 @@
     :fast_forward: termineter
 ## :nine: Sniffing & spoofing
 - Tools for listening or hijacking networks
+---
      :heavy_check_mark: driftnet
      :heavy_check_mark: ettercap-gr. . . 
      :heavy_check_mark: hamster
@@ -109,6 +116,7 @@
      :heavy_check_mark: wireshark
 ## :keycap_ten: POST exploitation
 - Tools for maintaining our access. Used after exploiting a system
+---
      :recycle: backdoor-f. . . 
      :recycle: exe2hex
      :recycle: mimikatz
@@ -127,6 +135,7 @@
     - hashdeep
 ## :one::two: Reporting Tools
 - Tools for report preparation.After some forensic you will get data and you will write report and these tools will help you.
+---
     :red_circle: cutycapt
     :red_circle: dradis fram . . .
      :red_circle: faraday IDE. .  .
@@ -135,6 +144,7 @@
      :red_circle: recordmyd. . . 
 ## :one::three: Social Engineering Tools
 - Tools used for social engineering attacks 
+---
    - backdoor-f . . .
    - beef xss fra . . .
    - maltego
@@ -142,6 +152,7 @@
    -  social Engin. . . 
 ## :one::four: System Services
 - Buttons used to start some services.
+---
      - beef start 
      - beef stop
      - dradis start
