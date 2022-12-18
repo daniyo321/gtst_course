@@ -177,26 +177,26 @@ C) Nautilus
 ## "Small programs that do one task well "
 ---
 ### ls/ list directory
-- SYNOPSIS
+:white_square_button: SYNOPSIS
    - ls [option] . . .[File] . . .
-- DESCRIPTION
+:white_square_button: DESCRIPTION
    - list information about the FILEs (the current directory by default).
-- ls -l
-- ls -a
-- ls filename
-- ls -R=> Recursive
-- You can combine them => ls -Rla "linux hidden files start with dot".
+:white_square_button: ls -l
+:white_square_button: ls -a
+:white_square_button: ls filename
+:white_square_button: ls -R=> Recursive
+:white_square_button: You can combine them => ls -Rla "linux hidden files start with dot".
 ---
 ### cd / Change directory
-- SYNOPSIS
+:arrow_forward: SYNOPSIS
   - cd[directory]
-- DESCRIPTION
+:arrow_forward: DESCRIPTION
    - It is used to change current working directory 
  - cd /  =>root
-- cd    =>home
-- cd.. =>1x back
-- cd../..=>2x back
-- cd foldername 
+:arrow_forward: cd    =>home
+:arrow_forward: cd.. =>1x back
+:arrow_forward: cd../..=>2x back
+:arrow_forward: cd foldername 
 
 > if  folder name have space you have to add the name inside"foldername"
 cd"foldername"
