@@ -1,0 +1,296 @@
+# :pushpin: Linux For User
+
+## :notebook_with_decorative_cover: Overview of kali-linux
+- Specifically,i will going to show you with "kali linux " with gnome but you can have any kinda,BUT  Debian is recommended,
+- Previouslynknown as Backtrack
+
+---
+ ## :one:  INFORMATION GATHERING 
+- Tools for information gathering,in system ,network,host 
+     - dmitry
+     - ike-scan 
+     - legion
+     - maltego
+     - netdiscover
+     - nmap
+     - p0f
+     - recon-ng
+     - spiderfoot
+ ## :two: Vulnerability Analysis 
+  - Tools for Finding Vulnerabilities 
+       - legion
+       - lynis
+       - nikito 
+       - nmap 
+       - unix-prives. . .
+## :three: Web Application Analysis
+- Tools for Finding Vulnerabilities and exploits on websites.
+     - burpsuite
+     - commix
+     - httrack 
+     - paros
+     - skipfish
+     - sqlmap
+     - webscarab
+     - wpscan
+     - ZAP
+## :four: Database Assessment
+- Tools for finding vulnerabilities and exploits on Databases.
+   - jSQL Injection
+   - mdb-sql
+   - oscanner
+   - sidguesser
+   - sqldict 
+   - SQLite data. . . 
+   - sqlmap
+   - sqlninja
+   - sqlsus
+   - tnscmd10g
+## :five: Password Attacks 
+- Tools for exploiting Passwords for login, websites, application, windows . . 
+   - cewl
+   - crunch
+   - hashcat
+   - hashcat
+   - john
+   - johnny
+   - medusa
+   - ncrack
+   - ophcrack
+   - rainbowcrack
+   - rcracki_mt
+   - wordlists
+## :six: Wireless Attacks
+- Tools for exploiting Wireless systems like wifi,bluetooth . .
+     - aircrack-ng
+     - chirp
+     - cowpatty
+     - fern wifi cra . . .
+     - kismet
+     - mdk3
+     - mfoc
+     - mfterm
+     - pixiewps
+     - reaver
+     - wifite
+## :seven: Reverse  Engineering
+- Tools for exploiting Softwares ,Mobile Applications and any binary files
+   - apktool
+   - bytecode-vi. . .
+   - clang
+   - clang++
+   - dex2jar
+   - edp-debug. . .
+   - ghidra
+   - jadx-gui
+   - javasnoop
+   - NASM shell 
+   - ollydpg
+   - radare2
+## :eight: Exploitation Tools
+- Tools for exploiting Softwares, Mobile, Computers, websites and anythings
+    - armitage
+    - beef xss fra . . . 
+    - metasploit Fram. . .
+    - msf payloa. . .
+    - searchsploit
+    - social engin. . . 
+    - sqlmap
+    - termineter
+## :nine: Sniffing & spoofing
+- Tools for listening or hijacking networks
+     - driftnet
+     - ettercap-gr. . . 
+     - hamster
+     - macchanger
+     - mitmproxy
+     - netsniff-ng
+     - responder
+     - wireshark
+## :keycap_ten: POST exploitation
+- Tools for maintaining our access. Used after exploiting a system
+     - backdoor-f. . . 
+     - exe2hex
+     - mimikatz
+     - nishang
+     - powersploit
+     - proxychains4
+     - weevely
+## :one: :one: Forensics
+- Tools for Doing researches and investigate cyber Attacks. 
+    - autopsy
+    - binwalk
+    - bulk_extrac. .  . 
+    - chkrootkit
+    - foremost
+    - galleta
+    - hashdeep
+## :one: :two: Reporting Tools
+- Tools for report preparation.After some forensic you will get data and you will write report and these tools will help you.
+     - cutycapt
+     - dradis fram . . .
+     - faraday IDE. .  .
+     - maltego
+     - pipal 
+     - recordmyd. . . 
+## :one: :three: Social Engineering Tools
+- Tools used for social engineering attacks 
+   - backdoor-f . . .
+   - beef xss fra . . .
+   - maltego
+   - msf paylo . . .
+   -  social Engin. . . 
+## :one: :four: System Services
+- Buttons used to start some services.
+     - beef start 
+     - beef stop
+     - dradis start
+     - dradis stop
+## :one: :five: Usually Used Applications 
+- Softwares  for   some basic purposes
+---
+### *FOLDER MANAGERS :file_folder:
+:a: Dolphin
+:b: Thunar
+
+:c: Nautilus
+
+---
+
+## !Linux Commands
+:white_check_mark: Linux System uses shell. The shell help us to communicate with the kernel and helps to execute codes.
+:white_check_mark Shell also colled "terminal"  
+:white_check_mark The terminal have 5 parts.
+  :black_circle: Username = anony
+   :black_circle: Hostname = Kali
+   :black_circle: Current Diroctory = PATH
+    :black_circle: Priviledge=$-(user),#-(root)
+    :black_circle: Command Place = _
+:white_check_mark Home directory is ~
+:white_check_mark Local directory with .
+:white_check_mark All directory     
+## Linux Commands Basics
+- On Linux there are over 100 commands.But we will see the main and the useful only. 
+- Also those commands have their own options and arguments .
+---
+### WHAT IS COMMAND???
+## "Small programs that do one task well "
+---
+### ls/ list directory
+- SYNOPSIS
+   - ls [option] . . .[File] . . .
+- DESCRIPTION
+   - list information about the FILEs (the current directory by default).
+- ls -l
+- ls -a
+- ls filename
+- ls -R=> Recursive
+- You can combine them => ls -Rla "linux hidden files start with dot".
+---
+### cd / Change directory
+- SYNOPSIS
+  - cd[directory]
+- DESCRIPTION
+   - It is used to change current working directory 
+ - cd /  =>root
+- cd    =>home
+- cd.. =>1x back
+- cd../..=>2x back
+- cd foldername 
+
+> if  folder name have space you have to add the name inside"foldername"
+cd"foldername"
+  ----
+## Pwd / print working directory
+- SYNOPSIS
+    - Pwd[-option]
+- DESCRIPTION
+   - It prints the path of the working directory,starting from the root .
+   - E.g after typing pwd:/home/omar/desktop/OSlab
+   ---
+## echo 
+- SYNOPSIS 
+   - echo[option] [string]
+- DESCRIPTION 
+    - echo command in linux is used to display  line of text/string that are passed as an argument. This is a built in command that is mostly used in shell scripts and batch files to output status text to the screen or a file .
+- you can write texts into files.
+     - echo text >file.txt
+- you can add texts(append) 
+    -echo text >>file.txt   
+    ---      
+## cat / head / tail / less
+- SYNOPSIS
+   - cat[FILE]
+- DESCRIBTION
+   - Used to show the content of a file
+   ---
+   ## touch
+ -   synopsis
+       - touch[FIIE1][FILE2][FILE3]
+  - DESCRIBTION
+     -  Creates any kind of files with the name you gave it. With empty inside
+     ---
+
+     ## Mkdir / Make Directory
+- SYNOPSIS       
+   - mkdir[FOLDER-NAME 1][FOLDER-NAME 2][FOLDER-NAME 3]
+- DESCRIPTION
+   
+   Creates Folder with the name u gave it.
+
+         - DON'T forget to add the "" when you are using folders with space between them.
+---
+## clear 
+- SYNOPSIS 
+    - clear
+- DESCRIPTION
+    - clears your screen.
+    ---
+ ## rm / remove
+:arrow_right_hook: SYNOPSIS 
+    - rm [File 1][File 2][File 3]
+ :arrow_right_hook: DESCRIPTION
+      - Remove file
+ :arrow_right_hook: rm -r => recursive(for folders)
+ :arrow_right_hook: rm -i => for prompt(ask)
+ :arrow_right_hook: rm -f => force delete
+ > you can use them in combination too like, rm -rf'filename'
+ ---
+ ##  cp| mv /copy,move
+:arrow_right_hook: SYNOPSIS
+    - cp[oldFILEPLACE][newFileplace]
+    - mv[oldFileplace][newFileplace]
+ - DESCRIPTION
+     - Copy/move files & Folders
+ ---
+ #  grep
+:arrow_right_hook: grep[options]pattern[files]
+ - The grep filter searches a file for a particular pattern of characters and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression (grep stands for global search for regular expression and print out).
+:arrow_right_hook: grep -i"search"file
+     -  -case insensetive 
+:arrow_right_hook: grep -c"search"file 
+    - -count numbers
+:arrow_right_hook: grep -l"search"file
+    - -displays filename
+:arrow_right_hook: grep -R"search"foldername   
+    - -search text in folders
+ ## Wc - Word count 
+:arrow_right_hook: SYNOPSIS
+  - wc [option]...[file]...
+:arrow_right_hook: DESCRIPTION
+  - It is used to find out number of lines word count, byte and characters count in the files specified in the file arguments.
+
+LINE(-l)    WORD(-w)      BYTE(-c)
+## Multiple Command Executions
+:arrow_right_hook: You can run / execute multiple commands in one line.
+:arrow_right_hook: using 3 methods
+    - And (&&)
+    - Or (||)
+    - Pipeing (|)
+## AND (&&)
+:arrow_right_hook: On AND operation all commands you entered will be executed .
+:arrow_right_hook: If both are working without error 
+## OR (||)
+:arrow_right_hook: On OR operation the command will executed.If it have error or not
+## Pipeing(|)
+:arrow_right_hook: On pipe,will help you run commands by using the output of the first command as the input for the next one.
