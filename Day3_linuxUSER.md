@@ -177,9 +177,9 @@ C) Nautilus
 ## "Small programs that do one task well "
 ---
 ### ls/ list directory
-:white_square_button: SYNOPSIS
+- SYNOPSIS
    - ls [option] . . .[File] . . .
-:white_square_button: DESCRIPTION
+- DESCRIPTION
    - list information about the FILEs (the current directory by default).
 :white_square_button: ls -l
 :white_square_button: ls -a
@@ -247,9 +247,9 @@ cd"foldername"
     - clears your screen.
     ---
  ## rm / remove
-:arrow_right_hook: SYNOPSIS 
+- SYNOPSIS 
     - rm [File 1][File 2][File 3]
- :arrow_right_hook: DESCRIPTION
+- DESCRIPTION
       - Remove file
  :arrow_right_hook: rm -r => recursive(for folders)
  :arrow_right_hook: rm -i => for prompt(ask)
@@ -257,7 +257,7 @@ cd"foldername"
  > you can use them in combination too like, rm -rf'filename'
  ---
  ##  cp| mv /copy,move
-:arrow_right_hook: SYNOPSIS
+- SYNOPSIS
     - cp[oldFILEPLACE][newFileplace]
     - mv[oldFileplace][newFileplace]
  - DESCRIPTION
