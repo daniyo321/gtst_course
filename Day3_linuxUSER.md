@@ -36,16 +36,16 @@
     :o: ZAP
 ## :four: Database Assessment
 - Tools for finding vulnerabilities and exploits on Databases.
-   :diamond_shape_with_a_dot__inside: jSQL Injection
-   :diamond_shape_with_a_dot__inside: mdb-sql
-   :diamond_shape_with_a_dot__inside: oscanner
-   :diamond_shape_with_a_dot__inside: sidguesser
-   :diamond_shape_with_a_dot__inside: sqldict 
-  :diamond_shape_with_a_dot__inside:SQLite data. . . 
-   :diamond_shape_with_a_dot__inside: sqlmap
-   :diamond_shape_with_a_dot__inside: sqlninja
-   :diamond_shape_with_a_dot__inside: sqlsus
-   :diamond_shape_with_a_dot__inside: tnscmd10g
+   :diamond_shape_with_a_dot_inside: jSQL Injection
+   :diamond_shape_with_a_dot_inside: mdb-sql
+   :diamond_shape_with_a_dot_inside: oscanner
+   :diamond_shape_with_a_dot_inside: sidguesser
+   :diamond_shape_with_a_dot_inside: sqldict 
+  :diamond_shape_with_a_dot_nside:SQLite data. . . 
+   :diamond_shape_with_a_dot_inside: sqlmap
+   :diamond_shape_with_a_dot_inside: sqlninja
+   :diamond_shape_with_a_dot_inside: sqlsus
+   :diamond_shape_with_a_dot_inside: tnscmd10g
 ## :five: Password Attacks 
 - Tools for exploiting Passwords for login, websites, application, windows . . 
    :eight_spoked_asterisk: cewl
@@ -62,17 +62,17 @@
    :eight_spoked_asterisk: wordlists
 ## :six: Wireless Attacks
 - Tools for exploiting Wireless systems like wifi,bluetooth . .
-     - aircrack-ng
-     - chirp
-     - cowpatty
-     - fern wifi cra . . .
-     - kismet
-     - mdk3
-     - mfoc
-     - mfterm
-     - pixiewps
-     - reaver
-     - wifite
+     :arrow_right: aircrack-ng
+     :arrow_right: chirp
+     :arrow_right: cowpatty
+     :arrow_right: fern wifi cra . . .
+     :arrow_right: kismet
+     :arrow_right: mdk3
+     :arrow_right: mfoc
+     :arrow_right: mfterm
+     :arrow_right: pixiewps
+     :arrow_right: reaver
+     :arrow_right: wifite
 ## :seven: Reverse  Engineering
 - Tools for exploiting Softwares ,Mobile Applications and any binary files
    :large_blue_circle: apktool
@@ -89,14 +89,14 @@
    :large_blue_circle: radare2
 ## :eight: Exploitation Tools
 - Tools for exploiting Softwares, Mobile, Computers, websites and anythings
-    - armitage
-    - beef xss fra . . . 
-    - metasploit Fram. . .
-    - msf payloa. . .
-    - searchsploit
-    - social engin. . . 
-    - sqlmap
-    - termineter
+    :fast_forward: armitage
+    :fast_forward: beef xss fra . . . 
+    :fast_forward: metasploit Fram. . .
+    :fast_forward: msf payloa. . .
+    :fast_forward: searchsploit
+    :fast_forward: social engin. . . 
+    :fast_forward: sqlmap
+    :fast_forward: termineter
 ## :nine: Sniffing & spoofing
 - Tools for listening or hijacking networks
      :heavy_check_mark: driftnet
@@ -109,13 +109,13 @@
      :heavy_check_mark: wireshark
 ## :keycap_ten: POST exploitation
 - Tools for maintaining our access. Used after exploiting a system
-     - backdoor-f. . . 
-     - exe2hex
-     - mimikatz
-     - nishang
-     - powersploit
-     - proxychains4
-     - weevely
+     :recycle: backdoor-f. . . 
+     :recycle: exe2hex
+     :recycle: mimikatz
+     :recycle: nishang
+     :recycle: powersploit
+     :recycle: proxychains4
+    :recycle: weevely
 ## :one::one: Forensics
 - Tools for Doing researches and investigate cyber Attacks. 
     - autopsy
@@ -159,16 +159,16 @@ C) Nautilus
 
 ## !Linux Commands
 :white_check_mark: Linux System uses shell. The shell help us to communicate with the kernel and helps to execute codes.
-:white_check_mark Shell also colled "terminal"  
-:white_check_mark The terminal have 5 parts.
+:white_check_mark: Shell also colled "terminal"  
+:white_check_mark: The terminal have 5 parts.
   :black_circle: Username = anony
    :black_circle: Hostname = Kali
    :black_circle: Current Diroctory = PATH
     :black_circle: Priviledge=$-(user),#-(root)
     :black_circle: Command Place = _
-:white_check_mark Home directory is ~
-:white_check_mark Local directory with .
-:white_check_mark All directory     
+:white_check_mark: Home directory is ~
+:white_check_mark: Local directory with .
+:white_check_mark: All directory     
 ## Linux Commands Basics
 - On Linux there are over 100 commands.But we will see the main and the useful only. 
 - Also those commands have their own options and arguments .
