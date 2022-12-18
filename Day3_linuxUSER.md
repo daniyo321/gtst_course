@@ -66,17 +66,17 @@
 ## :six: Wireless Attacks
 - Tools for exploiting Wireless systems like wifi,bluetooth . .
 ---
-     :arrow_right_hook: aircrack-ng
-     :arrow_right_hook:chirp
-   :arrow_right_hook: cowpatty
-    :arrow_right_hook: fern wifi cra . . .
-     :arrow_right_hook: kismet
-     :arrow_right_hook: mdk3
-    :arrow_right_hook: mfoc
-     :arrow_right_hook:mfterm
-    :arrow_right_hook: pixiewps
-     :arrow_right_hook: reaver
-     :arrow_right_hook: wifite
+     - aircrack-ng
+     -chirp
+   - cowpatty
+    - fern wifi cra . . .
+     - kismet
+     - mdk3
+    - mfoc
+     -mfterm
+    - pixiewps
+     - reaver
+     - wifite
 ## :seven: Reverse  Engineering
 - Tools for exploiting Softwares ,Mobile Applications and any binary files
 ---
@@ -95,35 +95,35 @@
 ## :eight: Exploitation Tools
 - Tools for exploiting Softwares, Mobile, Computers, websites and anythings
 ---
-   :arrow_right_hook: armitage
- :arrow_right_hook: beef xss fra . . . 
-   :arrow_right_hook: metasploit Fram. . .
-  :arrow_right_hook: msf payloa. . .
-:arrow_right_hook: searchsploit
-:arrow_right_hook: social engin. . . 
-    :arrow_right_hook: sqlmap
-    :arrow_right_hook: termineter
+   - armitage
+ - beef xss fra . . . 
+   - metasploit Fram. . .
+  - msf payloa. . .
+- searchsploit
+- social engin. . . 
+    - sqlmap
+    - termineter
 ## :nine: Sniffing & spoofing
 - Tools for listening or hijacking networks
 ---
-     :arrow_right_hook: driftnet
-    :arrow_right_hook: ettercap-gr. . . 
-    :arrow_right_hook: hamster
-    :arrow_right_hook: macchanger
-    :arrow_right_hook: mitmproxy
-   :arrow_right_hook: netsniff-ng
-    :arrow_right_hook: responder
-    :arrow_right_hook: wireshark
+     - driftnet
+    - ettercap-gr. . . 
+    - hamster
+    - macchanger
+    - mitmproxy
+   - netsniff-ng
+    - responder
+    - wireshark
 ## :keycap_ten: POST exploitation
 - Tools for maintaining our access. Used after exploiting a system
 ---
-    :arrow_right_hook: backdoor-f. . . 
-    :arrow_right_hook: exe2hex
-    :arrow_right_hook: mimikatz
-    :arrow_right_hook: nishang
-    :arrow_right_hook: powersploit
-    :arrow_right_hook: proxychains4
- :arrow_right_hook: weevely
+    - backdoor-f. . . 
+    - exe2hex
+    - mimikatz
+    - nishang
+    - powersploit
+    - proxychains4
+ - weevely
 ## :one::one: Forensics
 - Tools for Doing researches and investigate cyber Attacks. 
     - autopsy
@@ -136,12 +136,12 @@
 ## :one::two: Reporting Tools
 - Tools for report preparation.After some forensic you will get data and you will write report and these tools will help you.
 ---
-    :arrow_right_hook: cutycapt
-    :arrow_right_hook: dradis fram . . .
-     :arrow_right_hook:faraday IDE. .  .
-     :arrow_right_hook: maltego
-     :arrow_right_hook: pipal 
-    :arrow_right_hook: recordmyd. . . 
+    - cutycapt
+    - dradis fram . . .
+     -faraday IDE. .  .
+     - maltego
+     - pipal 
+    - recordmyd. . . 
 ## :one::three: Social Engineering Tools
 - Tools used for social engineering attacks 
 ---
@@ -262,9 +262,9 @@ cd"foldername"
     - rm [File 1][File 2][File 3]
 - DESCRIPTION
       - Remove file
- :arrow_right_hook: rm -r => recursive(for folders)
- :arrow_right_hook: rm -i => for prompt(ask)
- :arrow_right_hook: rm -f => force delete
+ - rm -r => recursive(for folders)
+ - rm -i => for prompt(ask)
+ - rm -f => force delete
  > you can use them in combination too like, rm -rf'filename'
  ---
  ##  cp| mv /copy,move
@@ -275,33 +275,33 @@ cd"foldername"
      - Copy/move files & Folders
  ---
  #  grep
-:arrow_right_hook: grep[options]pattern[files]
+- grep[options]pattern[files]
  - The grep filter searches a file for a particular pattern of characters and displays all lines that contain that pattern. The pattern that is searched in the file is referred to as the regular expression (grep stands for global search for regular expression and print out).
-:arrow_right_hook: grep -i"search"file
+- grep -i"search"file
      -  -case insensetive 
-:arrow_right_hook: grep -c"search"file 
+- grep -c"search"file 
     - -count numbers
-:arrow_right_hook: grep -l"search"file
+- grep -l"search"file
     - -displays filename
-:arrow_right_hook: grep -R"search"foldername   
+- grep -R"search"foldername   
     - -search text in folders
  ## Wc - Word count 
-:arrow_right_hook: SYNOPSIS
+- SYNOPSIS
   - wc [option]...[file]...
-:arrow_right_hook: DESCRIPTION
+- DESCRIPTION
   - It is used to find out number of lines word count, byte and characters count in the files specified in the file arguments.
 
 LINE(-l)    WORD(-w)      BYTE(-c)
 ## Multiple Command Executions
-:arrow_right_hook: You can run / execute multiple commands in one line.
-:arrow_right_hook: using 3 methods
+- You can run / execute multiple commands in one line.
+- using 3 methods
     - And (&&)
     - Or (||)
     - Pipeing (|)
 ## AND (&&)
-:arrow_right_hook: On AND operation all commands you entered will be executed .
-:arrow_right_hook: If both are working without error 
+- On AND operation all commands you entered will be executed .
+- If both are working without error 
 ## OR (||)
-:arrow_right_hook: On OR operation the command will executed.If it have error or not
+- On OR operation the command will executed.If it have error or not
 ## Pipeing(|)
-:arrow_right_hook: On pipe,will help you run commands by using the output of the first command as the input for the next one.
+- On pipe,will help you run commands by using the output of the first command as the input for the next one.
