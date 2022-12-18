@@ -7,59 +7,59 @@
 ---
  ## :one:  INFORMATION GATHERING 
 - Tools for information gathering,in system ,network,host 
-     - dmitry
-     - ike-scan 
-     - legion
-     - maltego
-     - netdiscover
-     - nmap
-     - p0f
-     - recon-ng
-     - spiderfoot
+     :large_blue_diamond: dmitry
+     :large_blue_diamond: ike-scan 
+     :large_blue_diamond: legion
+     :large_blue_diamond: maltego
+     :large_blue_diamond: netdiscover
+     :large_blue_diamond: nmap
+    :large_blue_diamond: p0f
+     :large_blue_diamond: recon-ng
+     :large_blue_diamond: spiderfoot
  ## :two: Vulnerability Analysis 
   - Tools for Finding Vulnerabilities 
-       - legion
-       - lynis
-       - nikito 
-       - nmap 
-       - unix-prives. . .
+       :radio_button: legion
+       :radio_button: lynis
+       :radio_button: nikito 
+       :radio_button: nmap 
+       :radio_button: unix-prives. . .
 ## :three: Web Application Analysis
 - Tools for Finding Vulnerabilities and exploits on websites.
-     - burpsuite
-     - commix
-     - httrack 
-     - paros
-     - skipfish
-     - sqlmap
-     - webscarab
-     - wpscan
-     - ZAP
+     :o: burpsuite
+    :o: commix
+    :o: httrack 
+     :o: paros
+     :o: skipfish
+     :o: sqlmap
+     :o: webscarab
+     :o: wpscan
+    :o: ZAP
 ## :four: Database Assessment
 - Tools for finding vulnerabilities and exploits on Databases.
-   - jSQL Injection
-   - mdb-sql
-   - oscanner
-   - sidguesser
-   - sqldict 
-   - SQLite data. . . 
-   - sqlmap
-   - sqlninja
-   - sqlsus
-   - tnscmd10g
+   :diamond_shape_with_a_dot__inside: jSQL Injection
+   :diamond_shape_with_a_dot__inside: mdb-sql
+   :diamond_shape_with_a_dot__inside: oscanner
+   :diamond_shape_with_a_dot__inside: sidguesser
+   :diamond_shape_with_a_dot__inside: sqldict 
+  :diamond_shape_with_a_dot__inside:SQLite data. . . 
+   :diamond_shape_with_a_dot__inside: sqlmap
+   :diamond_shape_with_a_dot__inside: sqlninja
+   :diamond_shape_with_a_dot__inside: sqlsus
+   :diamond_shape_with_a_dot__inside: tnscmd10g
 ## :five: Password Attacks 
 - Tools for exploiting Passwords for login, websites, application, windows . . 
-   - cewl
-   - crunch
-   - hashcat
-   - hashcat
-   - john
-   - johnny
-   - medusa
-   - ncrack
-   - ophcrack
-   - rainbowcrack
-   - rcracki_mt
-   - wordlists
+   :eight_spoked_asterisk: cewl
+   :eight_spoked_asterisk: crunch
+   :eight_spoked_asterisk: hashcat
+   :eight_spoked_asterisk:hashcat
+   :eight_spoked_asterisk: john
+   :eight_spoked_asterisk: johnny
+   :eight_spoked_asterisk: medusa
+   :eight_spoked_asterisk: ncrack
+   :eight_spoked_asterisk: ophcrack
+   :eight_spoked_asterisk: rainbowcrack
+   :eight_spoked_asterisk: rcracki_mt
+   :eight_spoked_asterisk: wordlists
 ## :six: Wireless Attacks
 - Tools for exploiting Wireless systems like wifi,bluetooth . .
      - aircrack-ng
@@ -75,18 +75,18 @@
      - wifite
 ## :seven: Reverse  Engineering
 - Tools for exploiting Softwares ,Mobile Applications and any binary files
-   - apktool
-   - bytecode-vi. . .
-   - clang
-   - clang++
-   - dex2jar
-   - edp-debug. . .
-   - ghidra
-   - jadx-gui
-   - javasnoop
-   - NASM shell 
-   - ollydpg
-   - radare2
+   :large_blue_circle: apktool
+   :large_blue_circle: bytecode-vi. . .
+   :large_blue_circle: clang
+   :large_blue_circle: clang++
+   :large_blue_circle: dex2jar
+   :large_blue_circle: edp-debug. . .
+   :large_blue_circle: ghidra
+   :large_blue_circle: jadx-gui
+   :large_blue_circle: javasnoop
+   :large_blue_circle: NASM shell 
+   :large_blue_circle: ollydpg
+   :large_blue_circle: radare2
 ## :eight: Exploitation Tools
 - Tools for exploiting Softwares, Mobile, Computers, websites and anythings
     - armitage
@@ -99,14 +99,14 @@
     - termineter
 ## :nine: Sniffing & spoofing
 - Tools for listening or hijacking networks
-     - driftnet
-     - ettercap-gr. . . 
-     - hamster
-     - macchanger
-     - mitmproxy
-     - netsniff-ng
-     - responder
-     - wireshark
+     :heavy_check_mark: driftnet
+     :heavy_check_mark: ettercap-gr. . . 
+     :heavy_check_mark: hamster
+     :heavy_check_mark: macchanger
+     :heavy_check_mark: mitmproxy
+     :heavy_check_mark: netsniff-ng
+     :heavy_check_mark: responder
+     :heavy_check_mark: wireshark
 ## :keycap_ten: POST exploitation
 - Tools for maintaining our access. Used after exploiting a system
      - backdoor-f. . . 
@@ -116,7 +116,7 @@
      - powersploit
      - proxychains4
      - weevely
-## :one: :one: Forensics
+## :one::one: Forensics
 - Tools for Doing researches and investigate cyber Attacks. 
     - autopsy
     - binwalk
@@ -125,35 +125,35 @@
     - foremost
     - galleta
     - hashdeep
-## :one: :two: Reporting Tools
+## :one::two: Reporting Tools
 - Tools for report preparation.After some forensic you will get data and you will write report and these tools will help you.
-     - cutycapt
-     - dradis fram . . .
-     - faraday IDE. .  .
-     - maltego
-     - pipal 
-     - recordmyd. . . 
-## :one: :three: Social Engineering Tools
+    :red_circle: cutycapt
+    :red_circle: dradis fram . . .
+     :red_circle: faraday IDE. .  .
+     :red_circle: maltego
+     :red_circle: pipal 
+     :red_circle: recordmyd. . . 
+## :one::three: Social Engineering Tools
 - Tools used for social engineering attacks 
    - backdoor-f . . .
    - beef xss fra . . .
    - maltego
    - msf paylo . . .
    -  social Engin. . . 
-## :one: :four: System Services
+## :one::four: System Services
 - Buttons used to start some services.
      - beef start 
      - beef stop
      - dradis start
      - dradis stop
-## :one: :five: Usually Used Applications 
+## :one::five: Usually Used Applications 
 - Softwares  for   some basic purposes
 ---
 ### *FOLDER MANAGERS :file_folder:
 :a: Dolphin
 :b: Thunar
 
-:c: Nautilus
+C) Nautilus
 
 ---
 
