@@ -66,17 +66,17 @@
 ## :six: Wireless Attacks
 - Tools for exploiting Wireless systems like wifi,bluetooth . .
 ---
-     :arrow_right: aircrack-ng
-     :arrow_right: chirp
-     :arrow_right: cowpatty
-     :arrow_right: fern wifi cra . . .
-     :arrow_right: kismet
-     :arrow_right: mdk3
-     :arrow_right: mfoc
-     :arrow_right: mfterm
-     :arrow_right: pixiewps
-     :arrow_right: reaver
-     :arrow_right: wifite
+     :arrow_right_hook: aircrack-ng
+     :arrow_right_hook:chirp
+   :arrow_right_hook: cowpatty
+    :arrow_right_hook: fern wifi cra . . .
+     :arrow_right_hook: kismet
+     :arrow_right_hook: mdk3
+    :arrow_right_hook: mfoc
+     :arrow_right_hook:mfterm
+    :arrow_right_hook: pixiewps
+     :arrow_right_hook: reaver
+     :arrow_right_hook: wifite
 ## :seven: Reverse  Engineering
 - Tools for exploiting Softwares ,Mobile Applications and any binary files
 ---
@@ -95,35 +95,35 @@
 ## :eight: Exploitation Tools
 - Tools for exploiting Softwares, Mobile, Computers, websites and anythings
 ---
-    :fast_forward: armitage
-    :fast_forward: beef xss fra . . . 
-    :fast_forward: metasploit Fram. . .
-    :fast_forward: msf payloa. . .
-    :fast_forward: searchsploit
-    :fast_forward: social engin. . . 
-    :fast_forward: sqlmap
-    :fast_forward: termineter
+   :arrow_right_hook: armitage
+ :arrow_right_hook: beef xss fra . . . 
+   :arrow_right_hook: metasploit Fram. . .
+  :arrow_right_hook: msf payloa. . .
+:arrow_right_hook: searchsploit
+:arrow_right_hook: social engin. . . 
+    :arrow_right_hook: sqlmap
+    :arrow_right_hook: termineter
 ## :nine: Sniffing & spoofing
 - Tools for listening or hijacking networks
 ---
-     :heavy_check_mark: driftnet
-     :heavy_check_mark: ettercap-gr. . . 
-     :heavy_check_mark: hamster
-     :heavy_check_mark: macchanger
-     :heavy_check_mark: mitmproxy
-     :heavy_check_mark: netsniff-ng
-     :heavy_check_mark: responder
-     :heavy_check_mark: wireshark
+     :arrow_right_hook: driftnet
+    :arrow_right_hook: ettercap-gr. . . 
+    :arrow_right_hook: hamster
+    :arrow_right_hook: macchanger
+    :arrow_right_hook: mitmproxy
+   :arrow_right_hook: netsniff-ng
+    :arrow_right_hook: responder
+    :arrow_right_hook: wireshark
 ## :keycap_ten: POST exploitation
 - Tools for maintaining our access. Used after exploiting a system
 ---
-     :recycle: backdoor-f. . . 
-     :recycle: exe2hex
-     :recycle: mimikatz
-     :recycle: nishang
-     :recycle: powersploit
-     :recycle: proxychains4
-    :recycle: weevely
+    :arrow_right_hook: backdoor-f. . . 
+    :arrow_right_hook: exe2hex
+    :arrow_right_hook: mimikatz
+    :arrow_right_hook: nishang
+    :arrow_right_hook: powersploit
+    :arrow_right_hook: proxychains4
+ :arrow_right_hook: weevely
 ## :one::one: Forensics
 - Tools for Doing researches and investigate cyber Attacks. 
     - autopsy
@@ -136,12 +136,12 @@
 ## :one::two: Reporting Tools
 - Tools for report preparation.After some forensic you will get data and you will write report and these tools will help you.
 ---
-    :red_circle: cutycapt
-    :red_circle: dradis fram . . .
-     :red_circle: faraday IDE. .  .
-     :red_circle: maltego
-     :red_circle: pipal 
-     :red_circle: recordmyd. . . 
+    :arrow_right_hook: cutycapt
+    :arrow_right_hook: dradis fram . . .
+     :arrow_right_hook:faraday IDE. .  .
+     :arrow_right_hook: maltego
+     :arrow_right_hook: pipal 
+    :arrow_right_hook: recordmyd. . . 
 ## :one::three: Social Engineering Tools
 - Tools used for social engineering attacks 
 ---
